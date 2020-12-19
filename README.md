@@ -6,4 +6,4 @@ In this project I made a password generator using variables, loops, and if state
 https://chunkit2.github.io/password-generator/
 
 ## screenshot
-![image]https://raw.githubusercontent.com/chunkit2/password-generator/main/img/screenshot.JPG 
+![image](https://raw.githubusercontent.com/chunkit2/password-generator/main/img/screenshot.JPG)
